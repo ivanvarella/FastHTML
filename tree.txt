@@ -1,0 +1,14 @@
+.
+├── README.md
+├── __pycache__
+│   ├── aplicativo.cpython-310.pyc
+│   ├── componentes.cpython-310.pyc
+│   └── main.cpython-310.pyc
+├── aplicativo.py
+├── componentes.py
+├── main.py
+├── requirements_dev_fastHtml.txt
+├── requirements_init.txt
+└── tree.txt
+
+1 directory, 10 files
